@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Setup the LiveUSB
 
 You can use the [editor on GitHub](https://github.com/itzrae1/schoolusb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
