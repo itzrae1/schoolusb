@@ -61,9 +61,26 @@ One of the most used software that the school uses is Teams and OneNote. I will 
 
 ### Bypassing Software
 
-This software will allow you to bypass the WiFi restrictions and unlock Windows 10 without a key. 
+This software will allow you to bypass the WiFi restrictions. 
 
 **NOTE**: If you have a Windows 10 Product Key, do not use it on the Live USB, as it may bug and render it invalid.
+
+**NOTE 2**: Using cracked software to activate Windows 10 is illegal. **I do not condone the use of activation software, and if you use such programs I am not responsible**.
+
+Using a VPN (Virtual Private Network) or a Proxy will allow you to access restricted sites. Installing a VPN on the school computer isn't allowed, however there are no restrictions on personal computers. Your Live USB would be considered a personal computer. The following is a list of popular VPNs:
+- NordVPN
+- Avast SecureLine
+- Surfshark
+- ProtonVPN
+- ExpressVPN
+
+The listed VPNs are payed software, as free VPNs can sell your data and/or have spyware. The price of a good VPN is worth it when it comes to your security online. After you've setup or signed into the VPN, you are done with this step.
+
+## Final steps & Precautions
+
+### Social Media Usage
+
+Do not use or browse social media such as Twitter, Instagram, etc. while in class. First off, your going to very easily give away that something is off. Second, your education is important, which is rich coming from me. 
 
 ```markdown
 Syntax highlighted code block
