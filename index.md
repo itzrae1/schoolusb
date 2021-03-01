@@ -11,8 +11,13 @@ WinToUSB is a program that allows for you to install Windows 10 to a USB for fre
 
 The next step is to get a Windows 10 ISO file to flash onto the USB. The iso can be downloaded [here](https://www.microsoft.com/en-us/software-download/windows10).
 
-EDIT: To download the ISO instead of the Media Creation Tool, you must be using any device that is not Windows. However, if all you have is Windows PCs, [follow these instructions](https://www.howtogeek.com/427223/how-to-download-a-windows-10-iso-without-the-media-creation-tool/)
+**EDIT**: To download the ISO instead of the Media Creation Tool, you must be using any device that is not Windows. However, if all you have is Windows PCs, [follow these instructions](https://www.howtogeek.com/427223/how-to-download-a-windows-10-iso-without-the-media-creation-tool/)
 
+### Flashing the Windows 10 ISO
+
+This is where you will begin setting up the computer for use.
+- Plug the USB into your computer and open **WinToUSB**. 
+- On the first page, find and select your Windows 10 ISO you downloaded.
 ```markdown
 Syntax highlighted code block
 
