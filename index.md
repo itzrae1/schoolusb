@@ -2,9 +2,10 @@
 
 The first step is to find a USB with atleast 32GB on it. 64GB or more is prefered.
 
-### Markdown
+### WintoUSB
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+WinToUSB is a program that allows for you to install Windows 10 to a USB for free. 
+[Download WinToUSB](https://www.easyuefi.com/wintousb/downloads/WinToUSB_Free.exe)
 
 ```markdown
 Syntax highlighted code block
