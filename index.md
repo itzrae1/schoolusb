@@ -18,6 +18,7 @@ The next step is to get a Windows 10 ISO file to flash onto the USB. The iso can
 This is where you will begin setting up the computer for use.
 - Plug the USB into your computer and open **WinToUSB**. 
 - On the first page, find and select your Windows 10 ISO you downloaded.
+![Image](https://raw.githubusercontent.com/itzrae1/schoolusb/gh-pages/InkedCapture1_LI.png)
 
 
 ```markdown
