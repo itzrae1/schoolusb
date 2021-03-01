@@ -1,4 +1,4 @@
-## Setting up the LiveUSB
+## Setting up the Live USB
 
 The first step is to find a USB with atleast 32GB on it. 64GB or more is prefered.
 
@@ -26,8 +26,27 @@ This is where you will begin setting up the computer for use.
 - On the next page you will get a list of options, select **Legacy** and **GPT for EUFI**.
 - Wait for the process to reach 100% done, then eject your USB.
 
-### Booting to the USB
+## Booting to the Live USB
 
+The next step in the process is to boot to the USB after setting it up.
+
+### Start Up & Setup
+
+**Instructions**:
+- Restart your laptop.
+- When you see it start to boot up, press F9 until you get a boot device selection window.
+- Select your USB from the list and wait for the computer to start.
+- Next you will have to go through the Windows 10 Setup. This will take about 20-30 min.
+
+### Sidenote
+
+You will have to repeat this process everytime you wish to boot to the USB. 
+
+Do not unplug the USB while using it, this will crash the system, and potentially corrupt data.
+
+## Installing Software
+
+Installing software is important to do so you can disguise this liveUSB as a school computer, while bypassing the school's blocking system.
 
 ```markdown
 Syntax highlighted code block
