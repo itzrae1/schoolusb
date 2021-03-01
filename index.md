@@ -19,6 +19,14 @@ This is where you will begin setting up the computer for use.
 - Plug the USB into your computer and open **WinToUSB**. 
 - On the first page, find and select your Windows 10 ISO you downloaded.
 ![Image](https://raw.githubusercontent.com/itzrae1/schoolusb/gh-pages/InkedCapture1_LI.png)
+- Next, Select the drive you wish to install the ISO to. (Select the USB)
+![Image](https://raw.githubusercontent.com/itzrae1/schoolusb/gh-pages/InkedCapture2_LI.png)
+
+**NOTE**: You will be asked to select a version, as I didn't upload the ISO I do not have this list. Select Windows 10 Home.
+- On the next page you will get a list of options, select **Legacy** and **GPT for EUFI**.
+- Wait for the process to reach 100% done, then eject your USB.
+
+### Booting to the USB
 
 
 ```markdown
