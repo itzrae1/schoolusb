@@ -1,8 +1,6 @@
-## Setup the LiveUSB
+## Setting up the LiveUSB
 
-You can use the [editor on GitHub](https://github.com/itzrae1/schoolusb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The first step is to find a USB with atleast 32GB on it. 64GB or more is prefered.
 
 ### Markdown
 
