@@ -57,7 +57,7 @@ One of the most used software that the school uses is Teams and OneNote. I will 
 **Software Downloads**:
 - [Microsoft Teams](https://www.microsoft.com/en-ca/microsoft-teams/download-app#desktopAppDownloadregion)
 - [Microsoft OneNote](https://www.onenote.com/download)
-- [Microsoft 365 (Online, nnot download)](https://www.office.com/)
+- [Microsoft 365 (Online, not a download)](https://www.office.com/)
 
 ### Bypassing Software
 
