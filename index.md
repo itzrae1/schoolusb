@@ -82,30 +82,14 @@ The listed VPNs are payed software, as free VPNs can sell your data and/or have 
 
 Do not use or browse social media such as Twitter, Instagram, etc. while in class. First off, your going to very easily give away that something is off. Second, your education is important, which is rich coming from me. 
 
-```markdown
-Syntax highlighted code block
+### Downloading Software & Games
 
-# Header 1
-## Header 2
-### Header 3
+Do whatever you want, it is your computer afterall. Using the VPN you will be able to play online games and use popular game platforms. (Ex: Steam) With the VPN you are also able to access minecraft servers. Basically, you can do anything you could do on your home WiFi.
 
-- Bulleted
-- List
+### Closing Remarks
 
-1. Numbered
-2. List
+I hope you enjoy your new Live USB! If you feel like it, feel free to join my discord server [here](https://discord.gg/xHCgFaPpBJ)!
 
-**Bold** and _Italic_ and `Code` text
+## Support or Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itzrae1/schoolusb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you are having issues with the process, or have questions, feel free to [join my Discord server](https://discord.gg/xHCgFaPpBJ) and add me as a friend. I will always be at the top of the members list. I will get to your DMs ASAP.
