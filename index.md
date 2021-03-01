@@ -48,6 +48,23 @@ Do not unplug the USB while using it, this will crash the system, and potentiall
 
 Installing software is important to do so you can disguise this liveUSB as a school computer, while bypassing the school's blocking system.
 
+### School Software
+
+This step is important to disguise this computer as a school computer. This also allows you to use the USB alone instead of switching inbetween the two.
+
+One of the most used software that the school uses is Teams and OneNote. I will include a link to office, where you can download the Office 365 software.
+
+**Software Downloads**:
+- [Microsoft Teams](https://www.microsoft.com/en-ca/microsoft-teams/download-app#desktopAppDownloadregion)
+- [Microsoft OneNote](https://www.onenote.com/download)
+- [Microsoft 365 (Online, nnot download)](https://www.office.com/)
+
+### Bypassing Software
+
+This software will allow you to bypass the WiFi restrictions and unlock Windows 10 without a key. 
+
+**NOTE**: If you have a Windows 10 Product Key, do not use it on the Live USB, as it may bug and render it invalid.
+
 ```markdown
 Syntax highlighted code block
 
