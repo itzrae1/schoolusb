@@ -68,11 +68,11 @@ This software will allow you to bypass the WiFi restrictions.
 **NOTE 2**: Using cracked software to activate Windows 10 is illegal. **I do not condone the use of activation software, and if you use such programs I am not responsible**.
 
 Using a VPN (Virtual Private Network) or a Proxy will allow you to access restricted sites. Installing a VPN on the school computer isn't allowed, however there are no restrictions on personal computers. Your Live USB would be considered a personal computer. The following is a list of popular VPNs:
-- NordVPN
-- Avast SecureLine
-- Surfshark
-- ProtonVPN
-- ExpressVPN
+- [NordVPN](https://nordvpn.com/download/)
+- [Avast SecureLine](https://www.avast.com/en-us/secureline-vpn)
+- [Surfshark](https://order.surfshark.com/)
+- [ProtonVPN](https://protonvpn.com/pricing)
+- [ExpressVPN](https://www.expressvpn.com/vpn-software/vpn-windows)
 
 The listed VPNs are payed software, as free VPNs can sell your data and/or have spyware. The price of a good VPN is worth it when it comes to your security online. After you've setup or signed into the VPN, you are done with this step.
 
